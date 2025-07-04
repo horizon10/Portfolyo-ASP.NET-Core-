@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ufukt\\Desktop\\MyPortfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F994A532-539E-4CE5-AA8E-CF5DB73DAC33}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\ufukt\\desktop\\myportfolio\\myportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F994A532-539E-4CE5-AA8E-CF5DB73DAC33}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F994A532-539E-4CE5-AA8E-CF5DB73DAC33}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\ufukt\\desktop\\myportfolio\\myportfolio\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F994A532-539E-4CE5-AA8E-CF5DB73DAC33}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F994A532-539E-4CE5-AA8E-CF5DB73DAC33}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\ufukt\\desktop\\myportfolio\\myportfolio\\views\\shared\\components\\_experiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F994A532-539E-4CE5-AA8E-CF5DB73DAC33}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_experiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F994A532-539E-4CE5-AA8E-CF5DB73DAC33}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\ufukt\\desktop\\myportfolio\\myportfolio\\viewcomponents\\layoutviewcomponents\\_layoutnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F994A532-539E-4CE5-AA8E-CF5DB73DAC33}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\layoutviewcomponents\\_layoutnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\MyPortfolio\\MyPortfolio\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\MyPortfolio\\MyPortfolio\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "MyPortfolio\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-03T11:41:17.946Z",
+              "WhenOpened": "2025-07-04T09:00:11.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_ExperienceComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_ExperienceComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_ExperienceComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_ExperienceComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-03T11:27:37.995Z",
+              "Title": "_LayoutNavbarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\MyPortfolio\\MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutNavbarComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutNavbarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\MyPortfolio\\MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutNavbarComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutNavbarComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T08:58:43.271Z",
               "EditorCaption": ""
             }
           ]
